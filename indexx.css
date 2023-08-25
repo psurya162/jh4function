@@ -1,0 +1,17 @@
+#question{
+    text-transform: uppercase;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.heading{
+    
+    background-image: linear-gradient(to left, red ,green,blue);
+    
+}
+.container{
+    border: 10px solid black;
+    padding: 10px;
+}
